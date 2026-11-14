@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { View, Text, ScrollView, SafeAreaView } from 'react-native';
 import Boat from './components/Boat';
